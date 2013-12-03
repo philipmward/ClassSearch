@@ -1,0 +1,5 @@
+15200,CSE,331,Network Design,3,Xu,Online
+13246,ACO,102,Principles of Computer Science,3,Chaudhari,West,CLCC228
+13266,CSE,210,Intro to Systems Programming,3,Wang,Tempe,CLCC238
+13240,ACO,101,Intro to Computer Science,3,Devine,West,CLCC204
+13208,EE,220,Intro to Database Systems,3,Silva,Poly,CLCC228
